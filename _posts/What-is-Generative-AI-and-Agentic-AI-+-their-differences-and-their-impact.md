@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "Core differences between Generative AI and Agentic AI"
-date: 2025-09-11
+# Core differences between Generative AI and Agentic AI
 ---
 
 
