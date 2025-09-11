@@ -45,10 +45,14 @@ To understand Agentic AI better, this is essentially asking an AI agent to fully
 **Figure 3: Agentic AI in action**
 ![Generative AI in action](/assets/images/agentic-ai-in-action.png)
 
+- From here, you can see the thought process an Agentic AI model would use to fully fulfill the request of the user. 
 
 ## How does Agentic AI work?
+Agentic AI has also its own process of ensuring the result (output) produced is relevant to the users' needs and meets their request as seen in the diagram below:
 
 **Figure 4: The process of Agentic AI**
+
+
 
 ## Differences between Generative AI and Agentic AI
 
