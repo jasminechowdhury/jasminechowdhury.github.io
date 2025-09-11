@@ -1,5 +1,7 @@
 ---
-"Core differences between Generative AI and Agentic AI"
+<h1 style="text-align:center; color:#007acc;">
+  Core differences between Generative AI and Agentic AI
+</h1>
 ---
 
 ## Introduction
