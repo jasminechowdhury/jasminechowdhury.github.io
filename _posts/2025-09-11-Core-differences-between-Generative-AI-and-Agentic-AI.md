@@ -2,6 +2,7 @@
 # Core differences between Generative AI and Agentic AI
 ---
 
+
 ## Introduction
 The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly has a significant impact in many other sectors, changing some ways in which tasks used to be carried out.
 Despite their prescence, many people are still unaware of the core differences between Generative AI and Agentic AI. In this post, I will outline what they both mean individually, then breakdown how they differ from each other and other aspects surronding both terms.
