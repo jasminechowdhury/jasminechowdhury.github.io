@@ -1,6 +1,5 @@
 ---
 "Core differences between Generative AI and Agentic AI"
-description: "An introductory post on understanding the core differences between Generative AI and Agentic AI."
 ---
 
 ## Introduction
@@ -10,13 +9,14 @@ Despite their prescence, many people are still unaware of the core differences b
 ---
 
 ## What is Generative AI?
-Generative AI is a machine-learning model that utilises the data it has been trained on to create new content such as videos, images, audio and text
+Generative AI is a machine-learning model that utilises the data it has been trained on to create new content such as videos, images, audio and text.
 
 ## Example of Generative AI
-To understand Generative AI better, this is typically shown when you give chatbots such as ChatGPT, Copilot or Gemini a prompt (an input) to do something which then produces the desired result (the output).
-This can be seen in the image below 'Figure 1: Generative AI in action'.
+To understand Generative AI better, this is typically shown when you give chatbots such as ChatGPT, Copilot or Gemini a prompt (an input) to do something which then produces the desired result (the output). This can be seen in the image below 'Figure 1: Generative AI in action'.
 
 **Figure 1: Generative AI in action**
+![Generative vs Agentic AI diagram](/assets/images/agentic-ai-diagram.png)
+
 
 - Define in simple terms: moves from **reactive** (waiting for commands) to **autonomous** (achieving goals).  
 - Analogy: reactive AI is a **GPS giving directions**; agentic AI is a **chauffeur who drives you there**.
