@@ -51,12 +51,28 @@ To understand Agentic AI better, this is essentially asking an AI agent to fully
 Agentic AI has also its own process of ensuring the result (output) produced is relevant to the users' needs and meets their request as seen in the diagram below:
 
 **Figure 4: The process of Agentic AI**
+![The process of Generative AI](/assets/images/the-process-of-agentic-ai.png)
+
+1) Setting goals = User provides the AI with a goal, not just a simple request
+2) Planning breakdown = The AI breaks down that goal into smaller steps
+3) Using tools = The AI will use external tools, APIs or systems to help fulfill the goal
+4) Autonomous action = Execution of each step is conducted by the AI until the goal reaches completion
 
 
 
 ## Differences between Generative AI and Agentic AI
+Now that a basic comprehension of both Generative AI and Agentic AI has been established, the differences between can be established and understood quicker as seen in the table below:
+
+**Figure 5: Differences between Generative AI and Agentic AI**
+
 
 ## PESTLE analysis of Generative AI and Agentic AI
+So far I have explained both terms, how they work and their differences but it is important to also recognise their impact on political, economical, social, technological, legal and environmental factors on society and businesses. This is shown in the PESTLE analysis I have created for both Generative AI and Agentic AI:
+
+**Figure 6: PESTLE analysis of Generative AI**
+
+**Figure 7: PESTLE analysis of Agentic AI**
+
 
 
 
