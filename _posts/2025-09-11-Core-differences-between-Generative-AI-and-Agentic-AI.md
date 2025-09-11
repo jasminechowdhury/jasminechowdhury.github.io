@@ -1,6 +1,6 @@
-<h1 style="text-align:center; color:#007acc;">
+<div style="text-align:center; color:#007acc; font-size:2em; font-weight:bold;">
   Core differences between Generative AI and Agentic AI
-</h1>
+</div>
 
 ## Introduction
 The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly has a significant impact in many other sectors, changing some ways in which tasks used to be carried out.
