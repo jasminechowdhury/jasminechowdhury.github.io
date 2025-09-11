@@ -1,5 +1,6 @@
+---
 # Core differences between Generative AI and Agentic AI
-
+---
 
 ## Introduction
 The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly has a significant impact in many other sectors, changing some ways in which tasks used to be carried out.
@@ -17,8 +18,7 @@ To understand Generative AI better, this is typically shown when you give chatbo
 ![Generative AI in action](/assets/images/generative-ai-in-action.png)
 
 
-- Define in simple terms: moves from **reactive** (waiting for commands) to **autonomous** (achieving goals).  
-- Analogy: reactive AI is a **GPS giving directions**; agentic AI is a **chauffeur who drives you there**.
+- From here, you can see that ChatGPT 5 wrote a poem about nature in a concise way, after asking for this request in a prompt
 
 ---
 
