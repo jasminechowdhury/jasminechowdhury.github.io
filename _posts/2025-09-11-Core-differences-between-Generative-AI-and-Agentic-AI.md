@@ -15,7 +15,7 @@ Generative AI is a machine-learning model that utilises the data it has been tra
 To understand Generative AI better, this is typically shown when you give chatbots such as ChatGPT, Copilot or Gemini a prompt (an input) to do something which then produces the desired result (the output). This can be seen in the image below 'Figure 1: Generative AI in action'.
 
 **Figure 1: Generative AI in action**
-![Generative AI in action](/assets/images/Generative-AI-in-action.png)
+![Generative AI in action](/assets/images/generative-ai-in-action.png)
 
 
 - Define in simple terms: moves from **reactive** (waiting for commands) to **autonomous** (achieving goals).  
