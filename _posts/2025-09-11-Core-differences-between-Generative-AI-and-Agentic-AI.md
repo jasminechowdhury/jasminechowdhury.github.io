@@ -1,8 +1,6 @@
 ---
-layout: post
-title: "Core differences between Generative AI and Agentic AI"
+"Core differences between Generative AI and Agentic AI"
 description: "An introductory post on understanding the core differences between Generative AI and Agentic AI."
-tags: [AI, artifical intelligence, agentic, generative, technology, patents, consulting, law, finance, healthcare, computer science]
 ---
 
 ## Introduction
