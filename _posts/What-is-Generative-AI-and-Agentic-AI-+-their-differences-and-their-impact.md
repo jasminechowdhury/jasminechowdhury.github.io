@@ -67,7 +67,7 @@ Now that a basic comprehension of both Generative AI and Agentic AI has been est
 
 
 ## PESTLE analysis of Generative AI and Agentic AI
-So far I have explained both terms, how they work and their differences but it is important to also recognise their impact on political, economical, social, technological, legal and environmental factors on society and businesses. This is shown in the PESTLE analysis I have created for both Generative AI and Agentic AI:
+Now that both terms have been explained, how they work and their differences, it is important to also recognise their impact on political, economical, social, technological, legal and environmental factors on society and businesses. This is shown in the PESTLE analysis I have created for both Generative AI and Agentic AI:
 
 **Figure 6: PESTLE analysis of Generative AI**
 
