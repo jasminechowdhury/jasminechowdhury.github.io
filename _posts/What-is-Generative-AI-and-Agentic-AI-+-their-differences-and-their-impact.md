@@ -43,6 +43,8 @@ Agentic AI is a machine-learning model that autonomously performs tasks and deci
 To understand Agentic AI better, this is essentially asking an AI agent to fully act on the users' behalf. Whilst there are no public chatbots that can currently fully act on the user's behalf, The image below shows how this would work if users' had access to this sort of AI right now: 
 
 **Figure 3: Agentic AI in action**
+![Generative AI in action](/assets/images/agentic-ai-in-action.png)
+
 
 ## How does Agentic AI work?
 
