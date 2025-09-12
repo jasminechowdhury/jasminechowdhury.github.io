@@ -3,18 +3,18 @@
 ---
 
 
-
 ## Introduction
 The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly has a significant impact in many other sectors, changing some ways in which tasks used to be carried out.
 Despite their prescence, many people are still unaware of the core differences between Generative AI and Agentic AI. In this post, I will outline what they both mean individually, then breakdown how they differ from each other and the impact of both using a PESTLE analysis 
 
 
-
 ## What is Generative AI?
 Generative AI is a machine-learning model that utilises the data it has been trained on to create new content such as videos, images, audio and text.
 
+
 ## Example of Generative AI
 To understand Generative AI better, this is typically shown when you give chatbots such as ChatGPT, Copilot or Gemini a prompt (an input) to do something which then produces the desired result (the output). This can be seen in the image below:
+
 
 **Figure 1: Generative AI in action**
 ![Generative AI in action](/assets/images/generative-ai-in-action.png)
@@ -24,6 +24,7 @@ To understand Generative AI better, this is typically shown when you give chatbo
 
 ## How does Generative AI work?
 Generative AI has its own process of ensuring the result (output) produced is relevant to the users' needs and meets their request as seen in the diagram below:
+
 
 **Figure 2: The process of Generative AI**
 ![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
@@ -66,20 +67,23 @@ Now that a basic comprehension of both Generative AI and Agentic AI has been est
 **Figure 5: Differences between Generative AI and Agentic AI**
 ![Differences between Generative AI and Agentic AI](/assets/images/differences-between-generative-ai-and-agentic-ai.png)
 
+- The side by side comparison demonstrates how their individual purpose differs when fulfilling the users' request
+
 ## PESTLE analysis of Generative AI and Agentic AI
-Now that both terms have been explained, how they work and their differences, it is important to also recognise their impact on political, economical, social, technological, legal and environmental factors on society and businesses. This is shown in the PESTLE analysis I have created for both Generative AI and Agentic AI:
+Now that both terms have been explained, how they work and their differences, it is important to also recognise their impact on political, economical, social, technological, legal and environmental factors on society and businesses. This is shown in the PESTLE analysis below for both Generative AI and Agentic AI:
 
 **Figure 6: PESTLE analysis of Generative AI**
+![PESTLE analysis of Generative AI](/assets/images/generative-ai-pestle-analysis.png)
+
+- The PESTLE analysis of Generative AI shows that whilst this form of AI reduces costs and improves accesbility, there are still some concerns over misinformation and high energy demands required to train this form of AI.
 
 **Figure 7: PESTLE analysis of Agentic AI**
+![PESTLE analysis of Agentic AI](/assets/images/agentic-ai-pestle-analysis.png)
 
-
-
-
+- The PESTLE analysis of Agentic AI clearly indicates that it is still in its early stages, making regulation tougher to establish as of yet due to lack of human oversight but at the same time provides the opportunity to increase efficiency of productivity in many sectors.
 
 
 ---
-
 ## Conclusion
-- Reiterate: agentic AI = **AI that acts, not just advises**.  
-- Close with a reflective line: *“The technology is still young, but the questions it raises — about autonomy, responsibility, and opportunity — are urgent today.”*
+Both Generative AI and Agentic AI have now been clearly defined and their differentiations with one another. Regardless of their dfferentiations, it can be clearly seen how both subsets of AI can have various impacts on society and businesses.
+---
