@@ -29,7 +29,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 **Figure 2: The process of Generative AI**
 ![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
 
-1) Data training = The AI is given tons of content such as videos, images, audio and text based on its purpose.
+1) Training data = The AI is given tons of content such as videos, images, audio and text based on its purpose.
 2) Recognising patterns = Rather than memomrising everything, the AI identifies patterns such as how words follow each other in a sentence
 3) Patterns -> Probabilities = The AI essentially then turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle
 4) Creating prompts = When a user provides an AI with a prompt using a chatbot, such as 'Give me a easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe
