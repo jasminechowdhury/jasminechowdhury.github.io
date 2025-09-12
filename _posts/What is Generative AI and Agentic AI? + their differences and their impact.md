@@ -1,5 +1,5 @@
 ---
-# Core differences between Generative AI and Agentic AI
+# What is Generative AI and Agentic AI? + their differences and their impact.md
 ---
 
 
