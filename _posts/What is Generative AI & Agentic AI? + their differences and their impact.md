@@ -1,5 +1,5 @@
 ---
-# What is Generative AI and Agentic AI? + their differences and their impact
+# What is Generative AI & Agentic AI? + their differences and their impact
 ---
 
 
