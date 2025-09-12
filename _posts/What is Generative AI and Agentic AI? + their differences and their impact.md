@@ -64,7 +64,7 @@ Agentic AI has also its own process of ensuring the result (output) produced is 
 Now that a basic comprehension of both Generative AI and Agentic AI has been established, the differences between can be established and understood quicker as seen in the table below:
 
 **Figure 5: Differences between Generative AI and Agentic AI**
-![Differences between Generative AI and Agentic AI](/assets/images/the-process-of-agentic-ai.png)
+![Differences between Generative AI and Agentic AI](/assets/images/differences-between-generative-ai-and-agentic-ai.png)
 
 ## PESTLE analysis of Generative AI and Agentic AI
 Now that both terms have been explained, how they work and their differences, it is important to also recognise their impact on political, economical, social, technological, legal and environmental factors on society and businesses. This is shown in the PESTLE analysis I have created for both Generative AI and Agentic AI:
