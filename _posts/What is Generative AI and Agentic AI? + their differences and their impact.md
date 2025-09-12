@@ -83,7 +83,6 @@ Now that both terms have been explained, how they work and their differences, it
 - The PESTLE analysis of Agentic AI clearly indicates that it is still in its early stages, making regulation tougher to establish as of yet due to lack of human oversight but at the same time provides the opportunity to increase efficiency of productivity in many sectors.
 
 
----
 ## Conclusion
 Both Generative AI and Agentic AI have now been clearly defined and their differentiations with one another. Regardless of their dfferentiations, it can be clearly seen how both subsets of AI can have various impacts on society and businesses.
----
+--
