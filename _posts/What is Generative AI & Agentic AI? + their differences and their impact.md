@@ -30,10 +30,10 @@ Generative AI has its own process of ensuring the result (output) produced is re
 ![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
 
 1) Training data = The AI is given tons of content such as videos, images, audio and text based on its purpose.
-2) Recognising patterns = Rather than memomrising everything, the AI identifies patterns such as how words follow each other in a sentence
-3) Patterns -> Probabilities = The AI essentially then turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle
-4) Creating prompts = When a user provides an AI with a prompt using a chatbot, such as 'Give me a easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe
-5) Output generated =  The patterns are eventually aligned by the AI, in which the outcome should fulfill the users' request
+2) Recognising patterns = Rather than memomrising everything, the AI identifies patterns such as how words follow each other in a sentence.
+3) Patterns -> Probabilities = The AI then essentially turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle.
+4) Creating prompts = When a user provides an AI with a prompt using a chatbot, such as 'Give me a easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe.
+5) Output generated =  The patterns are eventually aligned by the AI, in which the outcome should fulfill the users' request.
    
 ---
 
@@ -41,7 +41,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 Agentic AI is a machine-learning model that autonomously performs tasks and decision with limited or none human intervention. This is essentially an AI version of a personal assistant.
 
 ## Example of Agentic AI
-To understand Agentic AI better, this is essentially asking an AI agent to fully act on the users' behalf. Whilst there are no public chatbots that can currently fully act on the user's behalf, The image below shows how this would work if users' had access to this sort of AI right now: 
+To understand Agentic AI better, this is peformed by asking an AI agent to fully act on the users' behalf. Whilst there are no public chatbots that can currently fully act on the users' behalf, The image below shows how this would work if users' had access to this sort of AI right now: 
 
 **Figure 3: Agentic AI in action**
 ![Generative AI in action](/assets/images/agentic-ai-in-action.png)
