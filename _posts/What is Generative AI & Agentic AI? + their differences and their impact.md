@@ -28,7 +28,8 @@ To understand Generative AI better, this is typically shown when you give chatbo
 ![Generative AI in action](/assets/images/generative-ai-in-action.png)
 
 
-- From here, you can see how ChatGPT 5 fulfills the prompt request from the start to finish
+
+- From here, you can see how ChatGPT 5 fulfills the prompt request from start to finish
 
 
 
