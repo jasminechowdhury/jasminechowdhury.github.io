@@ -12,7 +12,7 @@ Despite their prescence, many people are still unaware of the core differences b
 
 
 ## What is Generative AI?
-Generative AI is a machine-learning model that utilises the data it has been trained on to create new content such as videos, images, audio and text.
+Generative AI is a machine-learning model that utilises the data it has been trained on to create new content such as videos, images, audio, and text.
 
 
 
