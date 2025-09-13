@@ -1,12 +1,12 @@
 ---
-# What is Generative AI & Agentic AI? + their differences and their impact
+# What are Generative AI and Agentic AI? Their differences and impact
 ---
 
 
 
 ## Introduction
-The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly has a significant impact in many other sectors, changing some ways in which tasks used to be carried out.
-Despite their prescence, many people are still unaware of the core differences between Generative AI and Agentic AI. In this post, I will outline what they both mean individually, then breakdown how they differ from each other and the impact of both using a PESTLE analysis.
+The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly have a significant impact in many other sectors, changing some ways in which tasks used to be carried out.
+Despite their presence, many people are still unaware of the core differences between Generative AI and Agentic AI. In this post, I will outline what they both mean individually, then break down how they differ from each other and the impact of both using a PESTLE analysis.
 
 
 
@@ -35,7 +35,7 @@ To understand Generative AI better, this is typically shown when you give chatbo
 
 
 ## How does Generative AI work?
-Generative AI has its own process of ensuring the result (output) produced is relevant to the users' needs and meets their request as seen in the diagram below:
+Generative AI has its own process of ensuring the result (output) produced is relevant to the user's needs and meets their request as seen in the diagram below:
 
 
 **Figure 2: The process of Generative AI**
@@ -44,9 +44,9 @@ Generative AI has its own process of ensuring the result (output) produced is re
 
 
 1) Training data = The AI is given tons of content such as videos, images, audio and text based on its purpose.
-2) Recognising patterns = Rather than memomrising everything, the AI identifies patterns such as how words follow each other in a sentence.
+2) Recognising patterns = Rather than memorising everything, the AI identifies patterns such as how words follow each other in a sentence.
 3) Patterns -> Probabilities = The AI then essentially turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle.
-4) Creating prompts = When a user provides an AI with a prompt using a chatbot, such as 'Give me a easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe.
+4) Creating prompts = When a user provides an AI with a prompt using a chatbot, such as "Give me a easy recipe to make vanilla cupcakes", rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe.
 5) Output generated =  The patterns are eventually aligned by the AI, in which the outcome should fulfil the users' request.
 
 
@@ -55,12 +55,12 @@ Generative AI has its own process of ensuring the result (output) produced is re
 
 
 ## What is Agentic AI?
-Agentic AI is a machine-learning model that autonomously performs tasks and decision with limited or none human intervention. This is essentially an AI version of a personal assistant.
+Agentic AI is a machine-learning model that autonomously performs tasks and decisions with limited or no human intervention. This is essentially an AI version of a personal assistant.
 
 
 
 ## Example of Agentic AI
-To understand Agentic AI better, this is peformed by asking an AI agent to fully act on the users' behalf. Whilst there are no public chatbots that can currently fully act on the users' behalf, The image below shows how this would work if users' had access to this sort of AI right now: 
+To understand Agentic AI better, this is performed by asking an AI agent to fully act on the users' behalf. Whilst there are no public chatbots that can currently fully act on the users' behalf, The image below shows how this would work if users' had access to this sort of AI right now: 
 
 
 
