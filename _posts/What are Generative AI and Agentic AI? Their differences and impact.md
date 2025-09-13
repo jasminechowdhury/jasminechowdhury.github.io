@@ -60,7 +60,7 @@ Agentic AI is a machine-learning model that autonomously performs tasks and deci
 
 
 ## Example of Agentic AI
-To understand Agentic AI better, this is performed by asking an AI agent to fully act on the user's behalf. Whilst there are no public chatbots that can currently fully act on the user's behalf. The image below shows how this would work if users had access to this sort of AI right now: 
+To understand Agentic AI better, this is performed by asking an AI agent to fully act on the user's behalf. Whilst there are no public chatbots that can currently fully act on the user's behalf, the image below shows how this would work if users had access to this sort of AI right now: 
 
 
 
@@ -80,7 +80,7 @@ Agentic AI has also its own process of ensuring the result (output) produced is 
 
 **Figure 4: The process of Agentic AI**
 
-![The process of Generative AI](/assets/images/the-process-of-agentic-ai.png)
+![The process of Agentic AI](/assets/images/the-process-of-agentic-ai.png)
 
 
 1) Setting goals = User provides the AI with a goal, not just a simple request
@@ -92,7 +92,7 @@ Agentic AI has also its own process of ensuring the result (output) produced is 
 
 
 ## Differences between Generative AI and Agentic AI
-Now that a basic comprehension of both Generative AI and Agentic AI has been established, the differences between them can be established and more quickly as seen in the table below:
+Now that a basic comprehension of both Generative AI and Agentic AI has been established, the differences between them can be established and understood more quickly as seen in the table below:
 
 
 
