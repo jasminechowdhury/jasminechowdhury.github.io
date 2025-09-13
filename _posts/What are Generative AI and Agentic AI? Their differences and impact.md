@@ -128,4 +128,4 @@ Now that both terms have been explained, how they work and their differences, it
 
 
 ## Conclusion
-Both Generative AI and Agentic AI have now been clearly defined, along with their differences from one another. Regardless of their differences, it can be clearly seen how both subsets of AI can have various impacts on society and businesses.
+Both Generative AI and Agentic AI have now been clearly defined, along with their differences from one another. Regardless, it can be clearly seen how both subsets of AI can have various impacts on society and businesses.
