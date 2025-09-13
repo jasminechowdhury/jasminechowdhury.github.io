@@ -29,7 +29,7 @@ To understand Generative AI better, this is typically shown when you give chatbo
 
 
 
-- From here, you can see how ChatGPT 5 fulfills the prompt request from start to finish
+- From here, you can see how ChatGPT 5 fulfils the prompt request from start to finish
 
 
 
