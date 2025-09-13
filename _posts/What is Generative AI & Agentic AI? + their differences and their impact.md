@@ -47,7 +47,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 2) Recognising patterns = Rather than memomrising everything, the AI identifies patterns such as how words follow each other in a sentence.
 3) Patterns -> Probabilities = The AI then essentially turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle.
 4) Creating prompts = When a user provides an AI with a prompt using a chatbot, such as 'Give me a easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe.
-5) Output generated =  The patterns are eventually aligned by the AI, in which the outcome should fulfill the users' request.
+5) Output generated =  The patterns are eventually aligned by the AI, in which the outcome should fulfil the users' request.
 
 
    
@@ -69,7 +69,7 @@ To understand Agentic AI better, this is peformed by asking an AI agent to fully
 ![Generative AI in action](/assets/images/agentic-ai-in-action.png)
 
 
-- From here, you can see the thought process an Agentic AI model would use to fully fulfill the request of the user. 
+- From here, you can see the thought process an Agentic AI model would use to fully fulfil the request of the user. 
 
 
 
@@ -85,7 +85,7 @@ Agentic AI has also its own process of ensuring the result (output) produced is 
 
 1) Setting goals = User provides the AI with a goal, not just a simple request
 2) Planning breakdown = The AI breaks down that goal into smaller steps
-3) Using tools = The AI will use external tools, APIs or systems to help fulfill the goal
+3) Using tools = The AI will use external tools, APIs or systems to help fulfil the goal
 4) Autonomous action = Execution of each step is conducted by the AI until the goal reaches completion
 
 
