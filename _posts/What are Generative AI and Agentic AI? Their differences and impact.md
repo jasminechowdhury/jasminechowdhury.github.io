@@ -43,11 +43,11 @@ Generative AI has its own process of ensuring the result (output) produced is re
 ![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
 
 
-1) Training data : The AI is given tons of content such as videos, images, audio and text based on its purpose.
-2) Recognising patterns : Rather than memorising everything, the AI identifies patterns such as how words follow each other in a sentence.
-3) Patterns -> Probabilities : The AI then essentially turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle.
-4) Creating prompts : When a user provides an AI with a prompt using a chatbot, such as 'Give me an easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe.
-5) Output generated : The patterns are eventually aligned by the AI, in which the outcome should fulfil the user's request.
+1) Training data: The AI is given tons of content such as videos, images, audio and text based on its purpose.
+2) Recognising patterns: Rather than memorising everything, the AI identifies patterns such as how words follow each other in a sentence.
+3) Patterns -> Probabilities: The AI then essentially turns into a machine that formulates predictions such as guessing what piece comes next in a puzzle.
+4) Creating prompts: When a user provides an AI with a prompt using a chatbot, such as 'Give me an easy recipe to make vanilla cupcakes', rather than copying another recipe word for word, the AI will use patterns to form its own version of the recipe.
+5) Output generated: The patterns are eventually aligned by the AI, in which the outcome should fulfil the user's request.
 
 
    
@@ -83,10 +83,10 @@ Agentic AI also has its own process of ensuring the result (output) produced is 
 ![The process of Agentic AI](/assets/images/the-process-of-agentic-ai.png)
 
 
-1) Setting goals : User provides the AI with a goal, not just a simple request
-2) Planning breakdown : The AI breaks down that goal into smaller steps
-4) Using tools : The AI will use external tools, APIs or systems to help fulfil the goal
-5) Autonomous action : Execution of each step is conducted by the AI until the goal reaches completion
+1) Setting goals: User provides the AI with a goal, not just a simple request
+2) Planning breakdown: The AI breaks down that goal into smaller steps
+3) Using tools: The AI will use external tools, APIs or systems to help fulfil the goal
+4) Autonomous action: Execution of each step is conducted by the AI until the goal reaches completion
 
 
 
