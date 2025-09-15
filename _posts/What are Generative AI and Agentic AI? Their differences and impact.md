@@ -4,6 +4,7 @@
 
 
 
+
 ## Introduction
 The terms 'Generative AI' and 'Agentic AI' have both recently become very pertinent within the field of technology and particularly have a significant impact on many other sectors, changing some ways in which tasks used to be carried out.
 Despite their presence, many people are still unaware of the core differences between Generative AI and Agentic AI. In this post, I will outline what they both mean individually, then break down how they differ from each other and then examine their impact using a PESTLE analysis.
@@ -25,6 +26,7 @@ To understand Generative AI better, this is typically shown when you give chatbo
 
 **Figure 1: Generative AI in action**
 
+
 ![Generative AI in action](/assets/images/generative-ai-in-action.png)
 
 
@@ -43,6 +45,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 
 **Figure 2: The process of Generative AI**
 
+
 ![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
 
 
@@ -54,12 +57,16 @@ Generative AI has its own process of ensuring the result (output) produced is re
 5) Output generated: The patterns are eventually aligned by the AI, in which the outcome should fulfil the user's request.
 
 
-   
+
+
 ---
+
+
 
 
 ## What is Agentic AI?
 Agentic AI is a machine-learning model that autonomously performs tasks and decisions with limited or no human intervention. This is essentially an AI version of a personal assistant.
+
 
 
 
@@ -68,7 +75,9 @@ To understand Agentic AI better, you can imagine asking an AI agent to fully act
 
 
 
+
 **Figure 3: Agentic AI in action**
+
 
 ![Agentic AI in action](/assets/images/agentic-ai-in-action.png)
 
@@ -78,16 +87,17 @@ To understand Agentic AI better, you can imagine asking an AI agent to fully act
 
 
 
+
 ## How does Agentic AI work?
 Agentic AI also has its own process of ensuring the result (output) produced is relevant to the user's needs and meets their request as seen in the diagram below:
 
 
 
+
 **Figure 4: The process of Agentic AI**
 
+
 ![The process of Agentic AI](/assets/images/the-process-of-agentic-ai.png)
-
-
 
 
 
@@ -104,9 +114,12 @@ Now that a basic comprehension of both Generative AI and Agentic AI has been est
 
 
 
+
 **Figure 5: Differences between Generative AI and Agentic AI**
 
+
 ![Differences between Generative AI and Agentic AI](/assets/images/differences-between-generative-ai-and-agentic-ai.png)
+
 
 
 - The side-by-side comparison demonstrates how their individual purpose differs when fulfilling the user's request
@@ -120,22 +133,24 @@ Now that both terms have been explained, how they work and their differences, it
 
 **Figure 6: PESTLE analysis of Generative AI**
 
-![PESTLE analysis of Generative AI](/assets/images/generative-ai-pestle-analysis.png)
 
+![PESTLE analysis of Generative AI](/assets/images/generative-ai-pestle-analysis.png)
 
 
 
 - The PESTLE analysis of Generative AI shows that whilst this form of AI reduces costs and improves accessibility, there are still some concerns over misinformation and high energy demands required to train this form of AI.
 
 
+
 **Figure 7: PESTLE analysis of Agentic AI**
+
 
 ![PESTLE analysis of Agentic AI](/assets/images/agentic-ai-pestle-analysis.png)
 
 
 
-
 - The PESTLE analysis of Agentic AI clearly indicates that it is still in its early stages, making regulation tougher to establish as of yet due to the lack of human oversight, but at the same time it provides opportunities to increase efficiency and productivity in many sectors.
+
 
 
 
