@@ -39,6 +39,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 
 
 **Figure 2: The process of Generative AI**
+![The process of Generative AI](assets/images/the-process-of-generative-ai.png)
 
 
 
@@ -79,6 +80,7 @@ Agentic AI also has its own process of ensuring the result (output) produced is 
 
 
 **Figure 4: The process of Agentic AI**
+![The process of Agentic AI](assets/images/the-process-of-agentic-ai.png)
 
 
 
@@ -112,7 +114,7 @@ Now that both terms have been explained, how they work and their differences, it
 
 **Figure 6: PESTLE analysis of Generative AI**
 
-![PESTLE analysis of Generative AI](/assets/images/generative-ai-pestle-analysis.png)
+
 
 
 - The PESTLE analysis of Generative AI shows that whilst this form of AI reduces costs and improves accessibility, there are still some concerns over misinformation and high energy demands required to train this form of AI.
@@ -120,7 +122,7 @@ Now that both terms have been explained, how they work and their differences, it
 
 **Figure 7: PESTLE analysis of Agentic AI**
 
-![PESTLE analysis of Agentic AI](/assets/images/agentic-ai-pestle-analysis.png)
+
 
 
 - The PESTLE analysis of Agentic AI clearly indicates that it is still in its early stages, making regulation tougher to establish as of yet due to the lack of human oversight, but at the same time it provides opportunities to increase efficiency and productivity in many sectors.
