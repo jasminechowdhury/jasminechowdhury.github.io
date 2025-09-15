@@ -25,7 +25,6 @@ To understand Generative AI better, this is typically shown when you give chatbo
 
 **Figure 1: Generative AI in action**
 
-![Generative AI in action](/assets/images/generative-ai-in-action.png)
 
 
 
@@ -39,7 +38,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 
 
 **Figure 2: The process of Generative AI**
-![The process of Generative AI](assets/images/the-process-of-generative-ai.png)
+
 
 
 
@@ -67,7 +66,7 @@ To understand Agentic AI better, you can imagine asking an AI agent to fully act
 
 **Figure 3: Agentic AI in action**
 
-![Agentic AI in action](/assets/images/agentic-ai-in-action.png)
+
 
 
 - From here, you can see the thought process an Agentic AI model would use to fully fulfil the request of the user. 
@@ -80,7 +79,6 @@ Agentic AI also has its own process of ensuring the result (output) produced is 
 
 
 **Figure 4: The process of Agentic AI**
-![The process of Agentic AI](assets/images/the-process-of-agentic-ai.png)
 
 
 
