@@ -25,6 +25,8 @@ To understand Generative AI better, this is typically shown when you give chatbo
 
 **Figure 1: Generative AI in action**
 
+![Generative AI in action](/assets/images/generative-ai-in-action.png)
+
 
 
 
@@ -37,9 +39,11 @@ To understand Generative AI better, this is typically shown when you give chatbo
 Generative AI has its own process of ensuring the result (output) produced is relevant to the user's needs and meets their request as seen in the diagram below:
 
 
+
+
 **Figure 2: The process of Generative AI**
 
-
+![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
 
 
 
@@ -66,6 +70,7 @@ To understand Agentic AI better, you can imagine asking an AI agent to fully act
 
 **Figure 3: Agentic AI in action**
 
+![Agentic AI in action](/assets/images/agentic-ai-in-action.png)
 
 
 
@@ -79,6 +84,9 @@ Agentic AI also has its own process of ensuring the result (output) produced is 
 
 
 **Figure 4: The process of Agentic AI**
+
+![The process of Agentic AI](/assets/images/the-process-of-agentic-ai.png)
+
 
 
 
@@ -98,7 +106,7 @@ Now that a basic comprehension of both Generative AI and Agentic AI has been est
 
 **Figure 5: Differences between Generative AI and Agentic AI**
 
-
+![Differences between Generative AI and Agentic AI](/assets/images/differences-between-generative-ai-and-agentic-ai.png)
 
 
 - The side-by-side comparison demonstrates how their individual purpose differs when fulfilling the user's request
@@ -112,6 +120,8 @@ Now that both terms have been explained, how they work and their differences, it
 
 **Figure 6: PESTLE analysis of Generative AI**
 
+![PESTLE analysis of Generative AI](/assets/images/generative-ai-pestle-analysis.png)
+
 
 
 
@@ -119,6 +129,8 @@ Now that both terms have been explained, how they work and their differences, it
 
 
 **Figure 7: PESTLE analysis of Agentic AI**
+
+![PESTLE analysis of Agentic AI](/assets/images/agentic-ai-pestle-analysis.png)
 
 
 
