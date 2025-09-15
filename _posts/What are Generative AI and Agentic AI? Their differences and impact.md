@@ -40,7 +40,7 @@ Generative AI has its own process of ensuring the result (output) produced is re
 
 **Figure 2: The process of Generative AI**
 
-![The process of Generative AI](/assets/images/the-process-of-generative-ai.png)
+
 
 
 1) Training data: The AI is given tons of content such as videos, images, audio and text based on its purpose.
@@ -80,7 +80,7 @@ Agentic AI also has its own process of ensuring the result (output) produced is 
 
 **Figure 4: The process of Agentic AI**
 
-![The process of Agentic AI](/assets/images/the-process-of-agentic-ai.png)
+
 
 
 1) Setting goals: User provides the AI with a goal, not just a simple request
@@ -98,7 +98,7 @@ Now that a basic comprehension of both Generative AI and Agentic AI has been est
 
 **Figure 5: Differences between Generative AI and Agentic AI**
 
-![Differences between Generative AI and Agentic AI](/assets/images/differences-between-generative-ai-and-agentic-ai.png)
+
 
 
 - The side-by-side comparison demonstrates how their individual purpose differs when fulfilling the user's request
